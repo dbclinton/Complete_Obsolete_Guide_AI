@@ -51,43 +51,43 @@ To be honest, my definition of "regularly" might not always match your expectati
 * [AI image generator](https://www.craiyon.com/)
 
 ## Data analytics
-* (https://openai.com/blog/openai-codex/)[OpenAI Codex]
-* (https://www.datagran.io/)[Datagran - AI chat data scientist]
+* [OpenAI Codex](https://openai.com/blog/openai-codex/)
+* [Datagran - AI chat data scientist](https://www.datagran.io/)
 
 ## Investment and financial
 
-* (https://portfoliopilot.com/portfolio)[Portfolio Pilot]
-* (https://www.composer.trade/)[composer]
+* [Portfolio Pilot](https://portfoliopilot.com/portfolio)
+* [composer](https://www.composer.trade/)
 	
 ## Speech-to-text
 
-* (https://github.com/openai/whisper)[Whisper (OpenAI)]
-* (https://otter.ai/)[otter.ai] - live transcriptions or notes from meetings, lectures, or conversations
+* [Whisper (OpenAI)](https://github.com/openai/whisper)
+* [otter.ai](https://otter.ai/) - live transcriptions or notes from meetings, lectures, or conversations
 
 ## Text-to-speech
 
-* (https://aws.amazon.com/polly/)[Amazon Polly]
-* (https://www.cereproc.com/)[CereProc]
-* (https://wellsaidlabs.com/)[WellSaid Labs]
-* (https://azure.microsoft.com/en-us/products/ai-services/text-to-speech#features)[Microsoft Azure]
-* (https://www.ibm.com/demos/live/tts-demo/self-service/home)[IBM Watson]
+* [Amazon Polly](https://aws.amazon.com/polly/)
+* [CereProc](https://www.cereproc.com/)
+* [WellSaid Labs](https://wellsaidlabs.com/)
+* [Microsoft Azure](https://azure.microsoft.com/en-us/products/ai-services/text-to-speech#features)
+* [IBM Watson](https://www.ibm.com/demos/live/tts-demo/self-service/home)
 
 ## Text-to-music
 
-* (https://mubert.com/)[Mubert] 
-* (https://www.aiva.ai/)[AIVA]
-* (https://boomy.com/)[boomy]
-* (https://soundful.com/)[Soundful]
+* [Mubert](https://mubert.com/)
+* [AIVA](https://www.aiva.ai/)
+* [boomy](https://boomy.com/)
+* [Soundful](https://soundful.com/)
 
 ## Text-to-video
 
-* (https://research.runwayml.com/gen2)[Gen-2 runway Research]
+* [Gen-2 runway Research](https://research.runwayml.com/gen2)
 
 ## Text-to-video presentations (including animated and life-like avatars)
 
-* (https://www.synthesia.io/)[Synthesia.io] - outstanding quality but very expensive
-* (https://elai.io/)[elai]
-* (https://fliki.ai/)[Fliki] - no avatar, but good focus on blog-to-video workflow
+* [Synthesia.io](https://www.synthesia.io/) - outstanding quality but very expensive
+* [elai](https://elai.io/)
+* [Fliki](https://fliki.ai/) - no avatar, but good focus on blog-to-video workflow
 
 ## Slide deck generation
 
