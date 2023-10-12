@@ -12,7 +12,7 @@ To be honest, my definition of "regularly" might not always match your expectati
 
 ## General LLM interaction  tools
 
-* (https://platform.openai.com/playground)[OpenAI GPT Playground]
+* [OpenAI GPT Playground](https://platform.openai.com/playground)
 * (https://labs.perplexity.ai/)[LLaMa Chat]
 * (https://stackoverflow.blog/2023/07/27/announcing-overflowai/)[Stack Overflow AI]
 * (https://www.anthropic.com/index/introducing-claude)[Anthropic (Claude)]
