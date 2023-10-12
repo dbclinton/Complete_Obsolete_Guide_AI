@@ -13,14 +13,14 @@ To be honest, my definition of "regularly" might not always match your expectati
 ## General LLM interaction  tools
 
 * [OpenAI GPT Playground](https://platform.openai.com/playground)
-* (https://labs.perplexity.ai/)[LLaMa Chat]
-* (https://stackoverflow.blog/2023/07/27/announcing-overflowai/)[Stack Overflow AI]
-* (https://www.anthropic.com/index/introducing-claude)[Anthropic (Claude)]
-* (https://www.langchain.com/)[LangChain]
-* (https://python.langchain.com/docs/use_cases/autonomous_agents/autogpt.html)[Auto-GPT on LangChain]
-* (https://openai.com/enterprise)[ChatGPT with enterprise-grade security and privacy]
+* [LLaMa Chat](https://labs.perplexity.ai/)
+* [Stack Overflow AI](https://stackoverflow.blog/2023/07/27/announcing-overflowai/)
+* [Anthropic (Claude)](https://www.anthropic.com/index/introducing-claude)
+* [LangChain](https://www.langchain.com/)
+* [Auto-GPT on LangChain](https://python.langchain.com/docs/use_cases/autonomous_agents/autogpt.html)
+* [ChatGPT with enterprise-grade security and privacy](https://openai.com/enterprise)
 * Google's Gemini AI model (GPT-4 competitor)
-* (https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654)[GPT for Sheets plugin: Get GPT to generate content within Google Sheets and Docs]
+* [GPT for Sheets plugin: Get GPT to generate content within Google Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654)
 
 ## AI application development platforms
 
