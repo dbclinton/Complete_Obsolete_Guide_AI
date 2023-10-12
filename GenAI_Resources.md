@@ -91,17 +91,17 @@ To be honest, my definition of "regularly" might not always match your expectati
 
 ## Slide deck generation
 
-* (https://gamma.app/)[Gamma] - generate docs, decks & webpages from text
+* [Gamma](https://gamma.app/) - generate docs, decks & webpages from text
 	
 Also: check out the many third-party integrations with Google Slides. From the Google Play site, search for "AI slide maker"
 
 ## Text, audio, and video language translation
 
-* (https://seamless.metademolab.com/)[Seamless Communication Translation] - A free demo of Meta's speech translation tool that supports nearly 100 input and 35 output languages
-* (https://github.com/facebookresearch/seamless_communication)[SeamlessM4T] - Developer's version of Meta's multi-modal translation tool
-* (https://labs.heygen.com/video-translate)[Translate the audio within videos to a different language - includes updated lip-syncing]
+* [Seamless Communication Translation](https://seamless.metademolab.com/) - A free demo of Meta's speech translation tool that supports nearly 100 input and 35 output languages
+* [SeamlessM4T](https://github.com/facebookresearch/seamless_communication) - Developer's version of Meta's multi-modal translation tool
+* [Translate the audio within videos to a different language - includes updated lip-syncing](https://labs.heygen.com/video-translate)
 
-## Domain specific
+## Domain-specific
 
-* (https://www.harvey.ai/)[Harvey] - law-aware AI service
-* (https://www.betterspeech.com/jessica)[Speech therapy] - still experimental!
+* [Harvey](https://www.harvey.ai/) - law-aware AI service
+* [Speech therapy](https://www.betterspeech.com/jessica) - still experimental!
