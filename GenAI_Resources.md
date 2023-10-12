@@ -1,6 +1,6 @@
 # Generative AI Resources
 
-From my Manning book: )[Complete Obsolete Guide to Generative Artificial Intelligence](http://mng.bz/j1Ax)
+From my Manning book: [The Complete Obsolete Guide to Generative Artificial Intelligence](http://mng.bz/j1Ax)
 
 By now I'm sure you've noticed how fast things change in the AI world. Announcements from the big players of new features for their flagship products come nearly daily. But there's are also frequent news about new third-party applications making innovative use of existing platforms and new and creative ways of working with the tools we already have. 
 
@@ -24,31 +24,31 @@ To be honest, my definition of "regularly" might not always match your expectati
 
 ## AI application development platforms
 
-* (https://huggingface.co/)[Hugging Face]
-* (https://aws.amazon.com/generative-ai/)[Generative AI on AWS]
-* (https://azure.microsoft.com/en-us/products/ai-services/openai-service)[Azure OpenAI Service]
-* (https://cloud.google.com/ai-platform/docs/technical-overview)[Google Cloud AI Platform]
-* (https://colab.google/)[Google Colaboratory] - host for Jupyter Notebook workflows
-* (https://developers.googleblog.com/2023/08/introducing-project-idx-experiment-to-improve-full-stack-multiplatform-app-development.html)[Google's Project IDX] - browser-based, AI-powered development environment for building full-stack and multiplatform applications
-* (https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates)[GPT-3.5 Turbo fine-tuning]
+* [Hugging Face](https://huggingface.co/)
+* [Generative AI on AWS](https://aws.amazon.com/generative-ai/)
+* [Azure OpenAI Service](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
+* [Google Cloud AI Platform](https://cloud.google.com/ai-platform/docs/technical-overview)
+* [Google Colaboratory](https://colab.google/) - host for Jupyter Notebook workflows
+* [Google's Project IDX](https://developers.googleblog.com/2023/08/introducing-project-idx-experiment-to-improve-full-stack-multiplatform-app-development.html) - browser-based, AI-powered development environment for building full-stack and multiplatform applications
+* [GPT-3.5 Turbo fine-tuning](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates)
 
 ## Third-party tools
-* (https://www.chatpdf.com/)[ChatPDF]
-* (https://botpress.com/)[Botpress] - No-code tool for building GPT-based customer support chatbots 
+* [ChatPDF](https://www.chatpdf.com/)
+* [Botpress](https://botpress.com/) - No-code tool for building GPT-based customer support chatbots 
 
 ## Writing tools
-* (https://www.copy.ai/)[Copy.ai]
-* (https://rytr.me/)[Ryttr]
-* (https://www.grammarly.com/a/grammarlygo)[GrammarlyGo]
-* (https://writesonic.com/)[Writesonic]
+* [Copy.ai](https://www.copy.ai/)
+* [Ryttr](https://rytr.me/)
+* [GrammarlyGo](https://www.grammarly.com/a/grammarlygo)
+* [Writesonic](https://writesonic.com/)
 
 ## Image generation
-* (https://www.midjourney.com/)[Midjourney]
-* (https://github.com/NVlabs/stylegan)[StyleGAN] - powerful, but requires a high-end NVIDIA GPU etc.
-* (https://www.canva.com/ai-image-generator/)[Canva AI] - incorporate text prompts into your Canva workflow
-* (https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory)[AI Comic Factory] - Generate comic book panels from text prompts
-* (https://leonardo.ai/)[Leonardo AI - limited access at this time]
-* (https://www.craiyon.com/)[Free AI image generator]
+* [Midjourney](https://www.midjourney.com/)
+* [StyleGAN](https://github.com/NVlabs/stylegan) - powerful, but requires a high-end NVIDIA GPU etc.
+* [Canva AI](https://www.canva.com/ai-image-generator/) - incorporate text prompts into your Canva workflow
+* [AI Comic Factory](https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory) - Generate comic book panels from text prompts
+* [Leonardo AI - limited access at this time](https://leonardo.ai/)
+* [AI image generator](https://www.craiyon.com/)
 
 ## Data analytics
 * (https://openai.com/blog/openai-codex/)[OpenAI Codex]
