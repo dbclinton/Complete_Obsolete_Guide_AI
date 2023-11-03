@@ -190,8 +190,7 @@ df_servers = pd.read_csv("AllServers-p.csv")
 # Extract the 'Year' column and normalize the other columns
 years = df_servers['Year'].values
 scaler = MinMaxScaler()
-normalized_data = scaler.fit_transform\
-	(df_servers.drop(columns=['Year']))
+normalized_data = scaler.fit_transform(df_servers.drop(columns=['Year']))
 
 # Plot the normalized data using matplotlib
 plt.figure(figsize=(10, 6))
