@@ -183,7 +183,7 @@ Year,Clock Speed (GHz),Maximum RAM (GB),Total Drive Capacity (GB)
 import pandas as pd
 from matplotlib import pyplot as plt
 
-df_all = pd.read_csv('AllServers-p.csv')
+df_all = pd.read_csv('AllServers.csv')
 
 plt.figure(figsize=(10, 6))  # Set the figure size
 
@@ -218,7 +218,7 @@ import pandas as pd
 from matplotlib import pyplot as plt
 from sklearn.preprocessing import MinMaxScaler
 
-df_servers = pd.read_csv("AllServers-p.csv")
+df_servers = pd.read_csv("AllServers.csv")
 
 # Extract the 'Year' column and normalize the other columns
 years = df_servers['Year'].values
