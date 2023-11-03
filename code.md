@@ -143,6 +143,76 @@ EOF
 done < "$1"
 ```
 
+# Chapter 6
+## Generate time series chart (non-normalized)
+
+```
+import pandas as pd
+from matplotlib import pyplot as plt
+
+df_all = pd.read_csv('AllServers-p.csv')
+
+plt.figure(figsize=(10, 6))  # Set the figure size
+
+# Convert DataFrame columns to NumPy arrays
+years = df_all['Year'].to_numpy()
+clock_speed = df_all['Clock Speed (GHz)'].to_numpy()
+max_ram = df_all['Maximum RAM (GB)'].to_numpy()
+drive_capacity = df_all['Total Drive Capacity (GB)'].to_numpy()
+
+# Plot lines for each column against the "Year" column
+plt.plot(years, clock_speed, label='Clock speed (GHz)')
+plt.plot(years, max_ram, label='RAM (GB)')
+plt.plot(years, drive_capacity, label='Storage (GB)')
+
+# Set labels and title
+plt.xlabel('Year')
+plt.ylabel('Values')
+plt.title('System Specifications Over Time')
+
+# Add a legend
+plt.legend()
+
+# Show the plot
+plt.grid(True)
+plt.show()
+```
+
+## Generate time series chart (normalized)
+
+```
+import pandas as pd
+from matplotlib import pyplot as plt
+from sklearn.preprocessing import MinMaxScaler
+
+df_servers = pd.read_csv("AllServers-p.csv")
+
+# Extract the 'Year' column and normalize the other columns
+years = df_servers['Year'].values
+scaler = MinMaxScaler()
+normalized_data = scaler.fit_transform\
+	(df_servers.drop(columns=['Year']))
+
+# Plot the normalized data using matplotlib
+plt.figure(figsize=(10, 6))
+
+# Plot for each normalized column against the "Year" column
+for i, column_name in enumerate(df_servers.columns[1:]):
+    plt.plot(years, normalized_data[:, i], label=column_name)
+
+# Set labels and title
+plt.xlabel('Year')
+plt.ylabel('Normalized Values')
+plt.title('"All Servers" (Normalized) Specs Over Time')
+
+# Add a legend
+plt.legend()
+
+# Show the plot
+plt.grid(True)
+plt.show()
+```
+
 # Chapter 7
 ## Langchain operation
 
