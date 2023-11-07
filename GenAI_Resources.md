@@ -43,7 +43,7 @@ To be honest, my definition of "regularly" might not always match your expectati
 * [Writesonic](https://writesonic.com/)
 
 ## Meeting optimization
-* [Krisp AI](https://krisp.ai/)) - Background voice and noise Cancellation, meeting transcriptions, meeting notes
+* [Krisp AI](https://krisp.ai/) - Background voice and noise Cancellation, meeting transcriptions, meeting notes
 
 ## Image generation
 * [Midjourney](https://www.midjourney.com/)
