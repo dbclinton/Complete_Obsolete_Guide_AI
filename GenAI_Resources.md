@@ -46,8 +46,8 @@ To be honest, my definition of "regularly" might not always match your expectati
 * [Krisp AI](https://krisp.ai/) - Background voice and noise Cancellation, meeting transcriptions, meeting notes
 
 ## Image generation
-* [OpenAI DALL-E]https://labs.openai.com/
-* [Documentation for the DALL-E API]https://platform.openai.com/docs/guides/images/usage?context=node
+* [OpenAI DALL-E](https://labs.openai.com/)
+* [Documentation for the DALL-E API](https://platform.openai.com/docs/guides/images/usage?context=node)
 * [Midjourney](https://www.midjourney.com/)
 * [StyleGAN](https://github.com/NVlabs/stylegan) - powerful, but requires a high-end NVIDIA GPU etc.
 * [Canva AI](https://www.canva.com/ai-image-generator/) - incorporate text prompts into your Canva workflow
