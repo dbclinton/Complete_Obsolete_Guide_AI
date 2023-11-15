@@ -53,7 +53,8 @@ To be honest, my definition of "regularly" might not always match your expectati
 * [Canva AI](https://www.canva.com/ai-image-generator/) - incorporate text prompts into your Canva workflow
 * [AI Comic Factory](https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory) - Generate comic book panels from text prompts
 * [Leonardo AI - limited access at this time](https://leonardo.ai/)
-* [AI image generator](https://www.craiyon.com/)
+* [Free multi-model service](https://www.mage.space/)
+* [Lucid Creations](https://dbzer0.itch.io/lucid-creations) - crowd source Stable Diffusion tool with a client download
 
 ## Data analytics
 * [OpenAI Codex](https://openai.com/blog/openai-codex/)
