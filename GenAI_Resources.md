@@ -21,6 +21,7 @@ To be honest, my definition of "regularly" might not always match your expectati
 * [GPT for Sheets plugin: Get GPT to generate content within Google Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654)
 * [Chainlit Cookbook](https://github.com/Chainlit/cookbook/tree/main) - tool for integrating various AI engines into a browser-based UI
 * [Groq](https://groq.com/) - Claimed to be extraordinarily fast
+* [NVIDIA ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) - Nvidia's locally-hosted desktop Gen AI tool (Windows 11 only right now)
 
 ## AI application development platforms
 
