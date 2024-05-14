@@ -77,7 +77,7 @@ To be honest, my definition of "regularly" might not always match your expectati
 * [CereProc](https://www.cereproc.com/)
 * [WellSaid Labs](https://wellsaidlabs.com/)
 * [Microsoft Azure](https://azure.microsoft.com/en-us/products/ai-services/text-to-speech#features)
-* [IBM Watson](https://www.ibm.com/demos/live/tts-demo/self-service/home)
+* [IBM Watson](https://www.ibm.com/products/text-to-speech)
 
 ## Text-to-music
 
