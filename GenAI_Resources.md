@@ -73,6 +73,7 @@ To be honest, my definition of "regularly" might not always match your expectati
 
 ## Text-to-speech
 
+* [OpenAI Text-to-speech](https://platform.openai.com/docs/guides/text-to-speech/quickstart)
 * [Amazon Polly](https://aws.amazon.com/polly/)
 * [CereProc](https://www.cereproc.com/)
 * [WellSaid Labs](https://wellsaidlabs.com/)
